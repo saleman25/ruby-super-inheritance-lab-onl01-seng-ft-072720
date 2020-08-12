@@ -1,6 +1,4 @@
 class Student
- 
- attr_accessor :ChattyStudent  
   
 def hello
   "Hey there! I'm so excited to learn stuff."
